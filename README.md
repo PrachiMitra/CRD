@@ -1,4 +1,3 @@
-CRD
 
 <h1> CRD-operations-of-a-file-based-key-value-data-store </h1> 
 
